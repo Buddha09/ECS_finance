@@ -2,7 +2,7 @@
 
 - [Understanding flow features in drying droplets via Euler characteristic surfaces (PoF 2020)](https://pubs.aip.org/aip/pof/article-abstract/32/12/123310/1062892/Understanding-flow-features-in-drying-droplets-via?redirectedFrom=fulltext)
 - [Characterizing fluid dynamical systems using Euler characteristic surfaces (PoF 2023)](https://pubs.aip.org/aip/pof/article-abstract/35/8/083305/2905487/Characterizing-fluid-dynamical-systems-using-Euler?redirectedFrom=fulltext)
-- [Topological data analysis for time-series via ECS (arXiv:2408.09400)](https://arxiv.org/abs/2408.09400)
+- [Euler Characteristic Surfaces: A Stable Multiscale Topological Summary of Time Series Data](https://arxiv.org/abs/2408.09400)
 
 # PAPERS ON APPLICATION OF PERSISTENT HOMOLOGY IN FINANCE
 
