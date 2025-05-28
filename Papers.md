@@ -11,3 +11,5 @@
 - [Why topological data analysis detects financial bubbles?(Commun Nonlinear Sci Numer Simulat, 2023)](https://www.sciencedirect.com/science/article/pii/S1007570423005865?casa_token=TuKe06zXlXUAAAAA:Yxq7-acEJDmHxFqQS2vdUTtc3KoHf23noeSEZT-AxQ69lBHdFOMk76t97H5BCKysZwvCLu8_llcR)
 - [Empirical study of financial crises based on topological data analysis (Physica A, 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304994?casa_token=gVcuMVwej8QAAAAA:dsBdJPweiXP8V4eBmBpszPhYjXAUMRyLB6mBYTgPZB66_liw7LKnMkwqVq1K5b-_-kWEjJosnsEa)
 - [Identifying extreme events in the stock market: A topological data analysis(Chaos: An Interdisciplinary Journal of Nonlinear Science, 2024)](https://pubs.aip.org/aip/cha/article-abstract/34/10/103106/3314950/Identifying-extreme-events-in-the-stock-market-A?redirectedFrom=fulltext)
+# PAPERS ON ECC
+- [Euler characteristic curves and profiles: a stable shape invariant for big data problems](10.1093/gigascience/giad094)
