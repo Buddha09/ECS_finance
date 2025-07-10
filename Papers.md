@@ -12,5 +12,6 @@
 - [Empirical study of financial crises based on topological data analysis (Physica A, 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304994?casa_token=gVcuMVwej8QAAAAA:dsBdJPweiXP8V4eBmBpszPhYjXAUMRyLB6mBYTgPZB66_liw7LKnMkwqVq1K5b-_-kWEjJosnsEa)
 - [Identifying extreme events in the stock market: A topological data analysis(Chaos: An Interdisciplinary Journal of Nonlinear Science, 2024)](https://pubs.aip.org/aip/cha/article-abstract/34/10/103106/3314950/Identifying-extreme-events-in-the-stock-market-A?redirectedFrom=fulltext)
 - [Clustering and classification of time series using topological data analysis with applications to finance (Expert Systems with Applications, 2020)](https://www.sciencedirect.com/science/article/pii/S095741742030676X)
+- [Topological tail dependence: Evidence from forecasting realized volatility (The Journal of Finance and Data Science, Volume 9, November 2023)](https://www.sciencedirect.com/science/article/pii/S2405918823000235)
 # PAPERS ON ECC
 - [Euler characteristic curves and profiles: a stable shape invariant for big data problems](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad094/7420640?login=true)
